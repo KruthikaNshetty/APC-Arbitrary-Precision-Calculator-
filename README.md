@@ -33,4 +33,4 @@ A calculator designed to perform arithmetic operations on numbers larger than st
 
 ## ▶️ How to Run
 -1 gcc *.c 
--2./apc
+-2 ./a.out
