@@ -32,5 +32,5 @@ A calculator designed to perform arithmetic operations on numbers larger than st
 - Algorithm design for arithmetic logic
 
 ## ▶️ How to Run
--1 gcc *.c 
--2 ./a.out
+- 1 gcc *.c 
+- 2 ./a.out
