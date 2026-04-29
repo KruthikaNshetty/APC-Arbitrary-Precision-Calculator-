@@ -1,4 +1,4 @@
-# APC-Arbitrary-Precision-Calculator
+# APC (Arbitrary Precision Calculator)
 ## 📌 Description
 A calculator designed to perform arithmetic operations on numbers larger than standard data types using linked list representation.
 
